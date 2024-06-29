@@ -1,5 +1,5 @@
 
-const API_KEY = "1287c48a7a5e41c88a78fa2aa907854d";
+const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7";
 const url = "https://newsapi.org/v2/everything?q=";
 
 let currentQuery = "India";
